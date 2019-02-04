@@ -31,3 +31,4 @@ i. The main difference is that the integration does not have lieutenants, instea
 
 ii. A team with 100 developers would benefit more using the Dictator and Lieutenants workflow because each developer won't be pushing their code to the master branch which could cause numerous problems. Instead, having a dictator recieve the changes from lieutenants and then having the dictator push changes to master branch where lieutenants can rebase from makes it more efficient and easier.
 
+5. I believe the RoleGame prototype uses both polymorphism and encapsulation. I believe it uses polymorphism in the .h files when we add public Weapon to inherit information from the weapon class. I also believe we use encapsulation in main.cpp when we wrap data and information under one unit called Weapon * weapon.
