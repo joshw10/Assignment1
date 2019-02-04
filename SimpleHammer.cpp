@@ -3,6 +3,7 @@
  * Author:	Joshua Williams <jaw15j@my.fsu.edu>
  *
  * Created on February 3, 2019, 2:35 PM
+ *http://www.cplusplus.com/reference/cstdlib/rand/
  */
 
 #include "SimpleHammer.h"

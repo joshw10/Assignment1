@@ -3,6 +3,7 @@
  * File:   SimpleArrow.cpp
  * Author: Joshua Williams <jaw15j@my.fsu.edu>
  *  
+ *http://www.cplusplus.com/reference/cstdlib/rand/
  */
 
 #include "SimpleArrow.h"
